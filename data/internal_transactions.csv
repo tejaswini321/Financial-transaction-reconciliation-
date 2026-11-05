@@ -1,0 +1,16 @@
+transaction_id,account_id,transaction_date,amount,transaction_type,status
+TXN001,ACC101,2026-10-01,5000,Credit,Completed
+TXN002,ACC102,2026-10-01,2500,Debit,Completed
+TXN003,ACC103,2026-10-02,7500,Credit,Completed
+TXN004,ACC104,2026-10-02,1200,Debit,Completed
+TXN005,ACC105,2026-10-03,9000,Credit,Completed
+TXN006,ACC106,2026-10-03,3500,Debit,Pending
+TXN007,ACC107,2026-10-04,4200,Credit,Completed
+TXN008,ACC108,2026-10-04,1800,Debit,Completed
+TXN009,ACC109,2026-10-05,6200,Credit,Completed
+TXN010,ACC110,2026-10-05,2700,Debit,Completed
+TXN011,ACC101,2026-10-06,1500,Debit,Completed
+TXN012,ACC102,2026-10-06,8000,Credit,Completed
+TXN013,ACC103,2026-10-07,3200,Debit,Completed
+TXN014,ACC104,2026-10-07,5500,Credit,Completed
+TXN015,ACC105,2026-10-08,2100,Debit,Completed
